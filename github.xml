@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="em-ebitlabs" id="3df4902b-8643-4023-a4a9-96382be6d13b">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
